@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  background-color: 	#141414;
+}
+
+
+
+.border {
+  transform: scale(0.9);
+  margin: auto;
+  margin-top: 70px;
+  width: 280px;
+  padding: 30px;
+  padding-bottom: 20px;
+  border-radius: 12px;
+  background-color: #1f1f1f;
+}
+
+.jessica {
+  border-radius: 50%;
+  margin-left: 93px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  width: 100px;
+  height: 100px;
+  color: white;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  font-size: 32px;
+  line-height: 10px;
+  color: white;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  color: #c5f82a;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c5f82a;
+}
+
+.button {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  padding: 12px;
+  margin: 15px;
+  border-radius: 10px;
+  background-color: 	#333333;
+  font-size: 11px;
+}
+
+.instagram {
+  pad
+}
