@@ -4,8 +4,6 @@ body {
   background-color: 	#141414;
 }
 
-
-
 .border {
   transform: scale(0.9);
   margin: auto;
@@ -68,8 +66,4 @@ a:hover {
   border-radius: 10px;
   background-color: 	#333333;
   font-size: 11px;
-}
-
-.instagram {
-  pad
 }
